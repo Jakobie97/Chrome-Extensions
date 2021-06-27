@@ -13,6 +13,6 @@ or use
 
 4. Click the **Load unpacked** button that just appeared.
 
-5. Select the folder **slader-limit-bypass** in **slader-extension-main** or **slader-extension**
+5. Select the folder and upload
 
 6. Enjoy!
