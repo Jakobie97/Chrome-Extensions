@@ -5,7 +5,7 @@ This repo hosts all my chrome extensions
 
 or use
 
-	 git clone https://github.com/Jakobie97/Chrome-Extensions/tree/main/LinkTracker
+	 git clone https://github.com/Jakobie97/Chrome-Extensions.git
 
 2. Open **chrome://extensions** in a new tab.
 
